@@ -1,0 +1,10 @@
+.fontHeading {
+    font-size: 25px;
+    font-family: 'Book Old Style', Times, serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.fontHeading:hover {
+    color: #61DAFB!important;
+}
